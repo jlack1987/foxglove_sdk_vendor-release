@@ -1,1 +1,24 @@
+## foxglove_sdk_vendor (jazzy) - 0.1.0-1
+
+The packages in the `foxglove_sdk_vendor` repository were released into the `jazzy` distro by running `/home/jlack/.local/bin/bloom-release --new-track --rosdistro jazzy --track jazzy --override-release-repository-url https://github.com/jlack1987/foxglove_sdk_vendor-release.git foxglove_sdk_vendor` on `Sat, 25 Oct 2025 16:05:02 -0000`
+
+The `foxglove_sdk_vendor` package was released.
+
+Version of package(s) in repository `foxglove_sdk_vendor`:
+
+- upstream repository: https://gitlab.com/jlack/foxglove_sdk_vendor.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `0.4.24`
+- rosdep version: `0.26.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 # foxglove_sdk_vendor-release
